@@ -2,58 +2,58 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/services/aws.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws.svg"
     alt="AWS"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/misc/chrome.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/chrome.svg"
     alt="Chrome"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/services/dockerhub.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/dockerhub.svg"
     alt="Dockerhub"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/tools/jetbrains_goland.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/jetbrains_goland.svg"
     alt="Goland"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/languages/js.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/js.svg"
     alt="Javascript"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/services/npm.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/npm.svg"
     alt="NPM"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/languages/python.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/python.svg"
     alt="Python"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/frameworks/react.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/react.svg"
     alt="React"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/tools/visualstudio_code.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/visualstudio_code.svg"
     alt="Visual Studio Code"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/misc/web.svg"
+    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/web.svg"
     alt="Web"
     style="vertical-align: top; margin: 4px;"
   />
 </p>
 
-### Find me online as @apoclyps
+### Find me online as 
 
 <p align="center">
   <a href="https://twitter.com/pranav_withyou">
