@@ -1,58 +1,3 @@
-### I build with:
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws.svg"
-    alt="AWS"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/chrome.svg"
-    alt="Chrome"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/dockerhub.svg"
-    alt="Dockerhub"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/jetbrains_goland.svg"
-    alt="Goland"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/js.svg"
-    alt="Javascript"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/npm.svg"
-    alt="NPM"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/python.svg"
-    alt="Python"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/react.svg"
-    alt="React"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/visualstudio_code.svg"
-    alt="Visual Studio Code"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/web.svg"
-    alt="Web"
-    style="vertical-align: top; margin: 4px;"
-  />
-</p>
-
 ### Find me online as 
 
 <p align="center">
@@ -106,3 +51,36 @@
     />
   </a>
 </p>
+
+### Certification Badges
+<p align="center">
+  <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a><a href="https://www.youracclaim.com/earner/earned/badge/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c/">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
+      alt="Instagram"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/earner/earned/badge/149a2e73-1828-4dfb-a177-c7030f2ee3da">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/sa+badge.png"
+      alt="Instagram"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  <a href="https://certification.scrumalliance.org/dashboard_generate_certif_request/554627-pranav-singh?cid=610976">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/seal-csm.png"
+      alt="Youtube"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+</p>
+  
+
