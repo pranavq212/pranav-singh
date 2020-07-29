@@ -1,13 +1,6 @@
 ### Find me online as 
 
 <p align="center">
-  <a href="https://twitter.com/pranav_withyou">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/twitter.svg"
-      alt="Twitter"
-      style="vertical-align: top; margin: 4px;"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/simplyinvincible/">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/linkedin.svg"
@@ -19,6 +12,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/stackoverflow.svg"
       alt="Stack Overflow"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  <a href="https://twitter.com/pranav_withyou">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/twitter.svg"
+      alt="Twitter"
       style="vertical-align: top; margin: 4px;"
     />
   </a>
