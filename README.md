@@ -53,7 +53,7 @@
 </p>
 
 ### Certification Badges
-<p align="center" style="display: flex;">
+<p align="center" style="display: flex !important">
   <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
@@ -75,7 +75,7 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-  <a href="https://certification.scrumalliance.org/dashboard_generate_certif_request/554627-pranav-singh?cid=610976" style="width: 50%;">
+  <a href="https://certification.scrumalliance.org/dashboard_generate_certif_request/554627-pranav-singh?cid=610976" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/seal-csm.png"
       alt="Certified Scrum Master"
