@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/pranavq212/{project}.svg)](http://hits.dwyl.com/pranavq212/{project})
+
 ### Find me online as 
 
 <p align="center">
