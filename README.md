@@ -87,6 +87,12 @@
       alt="Certified Scrum Master"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
+  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
   </a>
   
 
