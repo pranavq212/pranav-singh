@@ -53,21 +53,7 @@
 </p>
 
 ### Certification Badges
-  <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
-      alt="Design Thinking"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c/" style="width: 50%;">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
-      alt="Azure Fundamentals"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/149a2e73-1828-4dfb-a177-c7030f2ee3da">
+ <a href="https://www.youracclaim.com/earner/earned/badge/149a2e73-1828-4dfb-a177-c7030f2ee3da">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/sa+badge.png"
       alt="SAFe Agilist"
@@ -81,16 +67,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/badges/ee56435d-7c1d-45d6-ab19-cfc1a3f0de6a" style="width: 50% !important">
+  <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Data_Sci_Found_Level_1_-_CC_-_2019.png"
-      alt="Certified Scrum Master"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
-      alt="AzureNinjaCat"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
+      alt="Design Thinking"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -101,5 +81,24 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  
-
+  <a href="https://www.youracclaim.com/badges/ee56435d-7c1d-45d6-ab19-cfc1a3f0de6a" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Data_Sci_Found_Level_1_-_CC_-_2019.png"
+      alt="Certified Scrum Master"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/earner/earned/badge/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c/" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
+      alt="Azure Fundamentals"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
