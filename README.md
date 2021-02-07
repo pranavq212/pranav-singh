@@ -67,6 +67,27 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/earner/earned/badge/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c/" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
+      alt="Azure Fundamentals"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/earner/earned/badge/1c92a6fa-8f05-4bf4-a715-c8663beda56b">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Docker_Essentials_-_ISDN.png"
+      alt="Docker_Essentials_-_ISDN"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
@@ -95,17 +116,4 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
-      alt="AzureNinjaCat"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c/" style="width: 50%;">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
-      alt="Azure Fundamentals"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  
