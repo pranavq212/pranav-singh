@@ -52,6 +52,9 @@
   </a>
 </p>
 
+### StackOverflow Flair
+<a href="https://stackexchange.com/users/361416/pranav-singh"><img src="https://stackexchange.com/users/flair/361416.png" width="208" height="58" alt="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 ### Certification Badges
  <a href="https://www.youracclaim.com/earner/earned/badge/149a2e73-1828-4dfb-a177-c7030f2ee3da">
     <img
