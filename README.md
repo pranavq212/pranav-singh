@@ -126,3 +126,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
+      alt="IBM_Cloud_Essentials"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
