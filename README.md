@@ -91,17 +91,23 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://badgr.com/public/assertions/T2iiG8CORye62Zc2A_emqQ?identity__email=pranav_withyou@hotmail.com">
+    <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerDataEngineering–Professional.svg"
+      alt="RapidMiner Data Engineering – Professional Certification"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/earner/earned/badge/57b439e7-257c-4bb9-a972-ceee29066b31">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
+      alt="IBM_Blockchain_Foundation_Developer_V2"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
       alt="Design Thinking"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-   <a href="https://www.youracclaim.com/earner/earned/badge/57b439e7-257c-4bb9-a972-ceee29066b31">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
-      alt="IBM_Blockchain_Foundation_Developer_V2"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
