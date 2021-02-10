@@ -111,7 +111,7 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/badges/d70a8f09-1070-401f-acb4-4d3e934c8811" style="width: 50% !important">
+  <a href="https://www.youracclaim.com/badges/c6cd487a-7dad-4d09-8f6c-10ccb3827c59" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Blockchain_Essentials_V2.png"
       alt="IBM_Blockchain_Essentials_V2"
