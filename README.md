@@ -56,7 +56,7 @@
 <a href="https://stackexchange.com/users/361416/pranav-singh"><img src="https://stackexchange.com/users/flair/361416.png" width="208" height="58" alt="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Certification Badges
- <a href="https://www.youracclaim.com/earner/earned/badge/149a2e73-1828-4dfb-a177-c7030f2ee3da">
+ <a href="https://www.youracclaim.com/badges/149a2e73-1828-4dfb-a177-c7030f2ee3da">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/sa+badge.png"
       alt="SAFe Agilist"
@@ -77,14 +77,14 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c/" style="width: 50%;">
+  <a href="https://www.youracclaim.com/badges/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c" style="width: 50%;">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
       alt="Azure Fundamentals"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/1c92a6fa-8f05-4bf4-a715-c8663beda56b">
+  <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Docker_Essentials_-_ISDN.png"
       alt="Docker_Essentials_-_ISDN"
@@ -97,7 +97,7 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/57b439e7-257c-4bb9-a972-ceee29066b31">
+  <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
       alt="IBM_Blockchain_Foundation_Developer_V2"
@@ -111,7 +111,7 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/c6cd487a-7dad-4d09-8f6c-10ccb3827c59" style="width: 50% !important">
+  <a href="https://www.youracclaim.com/badges/d70a8f09-1070-401f-acb4-4d3e934c8811" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Blockchain_Essentials_V2.png"
       alt="IBM_Blockchain_Essentials_V2"
