@@ -139,10 +139,17 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.youracclaim.com/badges/e4807921-12ec-4ae3-89c7-eb175c169130" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Python_101_Data_Science.png"
+      alt="Python_101_Data_Science"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
-      alt="IBM_Cloud_Essentials"
+      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
