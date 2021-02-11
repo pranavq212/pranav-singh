@@ -84,16 +84,23 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b">
+  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Docker_Essentials_-_ISDN.png"
-      alt="Docker_Essentials_-_ISDN"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
+      alt="EnterpriseDesignThinkingTeamEssentialsAI"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
   <a href="https://badgr.com/public/assertions/T2iiG8CORye62Zc2A_emqQ?identity__email=pranav_withyou@hotmail.com">
     <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerDataEngineering–Professional.svg"
       alt="RapidMiner Data Engineering – Professional Certification"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Docker_Essentials_-_ISDN.png"
+      alt="Docker_Essentials_-_ISDN"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
