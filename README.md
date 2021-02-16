@@ -96,14 +96,7 @@
       alt="IBM_Cloud_Essentials"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
-      alt="AzureNinjaCat"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>    
+  </a>     
   <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
@@ -136,6 +129,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
       alt="EnterpriseDesignThinkingTeamEssentialsAI"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+   <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
