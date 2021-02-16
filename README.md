@@ -83,9 +83,17 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://badgr.com/public/assertions/T2iiG8CORye62Zc2A_emqQ?identity__email=pranav_withyou@hotmail.com">
-    <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerDataEngineering–Professional.svg"
-      alt="RapidMiner Data Engineering – Professional Certification"
+  <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
+      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/e89dba5e-41b4-478e-a1f9-8fe6eb29be36" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Cloud_Essentials.png"
+      alt="IBM_Cloud_Essentials"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -95,18 +103,18 @@
       alt="AzureNinjaCat"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
-      alt="EnterpriseDesignThinkingTeamEssentialsAI"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>  
+  </a>    
   <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
       alt="IBM_Blockchain_Foundation_Developer_V2"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/c6cd487a-7dad-4d09-8f6c-10ccb3827c59" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM-Blockchain-Essentials-V2.png"
+      alt="IBM_Blockchain_Essentials_V2"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -123,11 +131,17 @@
       alt="Design Thinking"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.youracclaim.com/badges/c6cd487a-7dad-4d09-8f6c-10ccb3827c59" style="width: 50% !important">
+  </a>  
+  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Blockchain_Essentials_V2.png"
-      alt="IBM_Blockchain_Essentials_V2"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
+      alt="EnterpriseDesignThinkingTeamEssentialsAI"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://badgr.com/public/assertions/T2iiG8CORye62Zc2A_emqQ?identity__email=pranav_withyou@hotmail.com">
+    <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerDataEngineering–Professional.svg"
+      alt="RapidMiner Data Engineering – Professional Certification"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -137,25 +151,11 @@
       alt="Data_Sci_Found_Level_1"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.youracclaim.com/badges/e89dba5e-41b4-478e-a1f9-8fe6eb29be36" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Cloud_Essentials.png"
-      alt="IBM_Cloud_Essentials"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
   <a href="https://www.youracclaim.com/badges/e4807921-12ec-4ae3-89c7-eb175c169130" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Python_101_Data_Science.png"
       alt="Python_101_Data_Science"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.youracclaim.com/badges/1c92a6fa-8f05-4bf4-a715-c8663beda56b" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
-      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
