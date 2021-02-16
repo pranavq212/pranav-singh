@@ -70,13 +70,6 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
-      alt="AzureNinjaCat"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
   <a href="https://www.youracclaim.com/badges/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c" style="width: 50%;">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
@@ -84,10 +77,9 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
-      alt="EnterpriseDesignThinkingTeamEssentialsAI"
+  <a href="https://www.youracclaim.com/badges/ee968179-3887-4062-a1b0-0e7f7fa628ba">
+    <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AWS-CloudPractitioner.png"
+      alt="AWS Certified Cloud Practitioner"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -97,6 +89,20 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
+      alt="EnterpriseDesignThinkingTeamEssentialsAI"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>  
   <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
