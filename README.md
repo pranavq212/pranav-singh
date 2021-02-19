@@ -159,3 +159,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>  
+  <a href="https://www.youracclaim.com/badges/d01bdfe5-dd0d-455f-9db3-c8fb0906adc6" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/dataops-methodology.png"
+      alt="dataops-methodology"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
