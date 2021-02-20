@@ -166,3 +166,18 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  </a>  
+  <a href="https://www.youracclaim.com/badges/f77f2fd7-980d-4256-9ec2-10747a9f19cd" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
+      alt="Linux Foundation"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/357866d8-8bbc-409e-a261-f72e483fe115" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
+      alt="Linux Foundation"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
