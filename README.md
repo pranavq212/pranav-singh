@@ -181,3 +181,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://edu.alibabacloud.com/certification/fintech_special_edition" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AlibabaCloudFinTechTechnicalCertificate.png"
+      alt="AlibabaCloudFinTechTechnicalCertificate"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
