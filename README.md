@@ -70,6 +70,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://edu.alibabacloud.com/certification/fintech_special_edition" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AlibabaCloudFinTechTechnicalCertificate.png"
+      alt="AlibabaCloudFinTechTechnicalCertificate"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/a64ec01f-d18d-4758-b30d-b1cc63b80406" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
@@ -84,20 +91,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>    
-  <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
+   <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
-      alt="Design Thinking"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>  
-  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
-      alt="EnterpriseDesignThinkingTeamEssentialsAI"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a> 
   <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
@@ -119,10 +119,24 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>  
-   <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+   <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
-      alt="AzureNinjaCat"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
+      alt="Design Thinking"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>  
+  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
+      alt="EnterpriseDesignThinkingTeamEssentialsAI"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/f77f2fd7-980d-4256-9ec2-10747a9f19cd" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
+      alt="Linux Foundation"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -153,28 +167,14 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  </a>  
-  <a href="https://www.youracclaim.com/badges/f77f2fd7-980d-4256-9ec2-10747a9f19cd" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
-      alt="Linux Foundation"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>    
   <a href="https://www.youracclaim.com/badges/357866d8-8bbc-409e-a261-f72e483fe115" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
       alt="Linux Foundation"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://edu.alibabacloud.com/certification/fintech_special_edition" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AlibabaCloudFinTechTechnicalCertificate.png"
-      alt="AlibabaCloudFinTechTechnicalCertificate"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
 <a href="https://www.youracclaim.com/badges/149a2e73-1828-4dfb-a177-c7030f2ee3da">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/sa+badge.png"
