@@ -83,7 +83,21 @@
       alt="IBM_Cloud_Essentials"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>     
+  </a>    
+  <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
+      alt="Design Thinking"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>  
+  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
+      alt="EnterpriseDesignThinkingTeamEssentialsAI"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
@@ -104,21 +118,7 @@
       alt="Docker_Essentials_-_ISDN"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.youracclaim.com/earner/earned/badge/d70a8f09-1070-401f-acb4-4d3e934c8811">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badges_v8-07+Practitioner.png"
-      alt="Design Thinking"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
   </a>  
-  <a href="https://www.youracclaim.com/badges/46d8f777-ac96-457b-9557-01ad52b4cb35">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/EnterpriseDesignThinkingTeamEssentialsAI.png"
-      alt="EnterpriseDesignThinkingTeamEssentialsAI"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
    <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
