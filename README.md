@@ -56,20 +56,7 @@
 <a href="https://stackexchange.com/users/361416/pranav-singh"><img src="https://stackexchange.com/users/flair/361416.png" width="208" height="58" alt="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Certification Badges
- <a href="https://www.youracclaim.com/badges/149a2e73-1828-4dfb-a177-c7030f2ee3da">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/sa+badge.png"
-      alt="SAFe Agilist"
-      style="vertical-align: top; margin: 4px; width: 15%  !important"
-    />
-  </a>
-  <a href="https://www.scrumalliance.org/community/profile/psingh142" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/seal-csm.png"
-      alt="Certified Scrum Master"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+ 
   <a href="https://www.youracclaim.com/badges/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c" style="width: 50%;">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
@@ -185,6 +172,27 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AlibabaCloudFinTechTechnicalCertificate.png"
       alt="AlibabaCloudFinTechTechnicalCertificate"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+<a href="https://www.youracclaim.com/badges/149a2e73-1828-4dfb-a177-c7030f2ee3da">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/sa+badge.png"
+      alt="SAFe Agilist"
+      style="vertical-align: top; margin: 4px; width: 15%  !important"
+    />
+  </a>
+  <a href="https://www.scrumalliance.org/community/profile/psingh142" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/seal-csm.png"
+      alt="Certified Scrum Master"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/97e31227-6d50-4563-9302-28c01e7630c1" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/scrum-foundation-professional-certificate.1.png"
+      alt="scrum-foundation-professional"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
