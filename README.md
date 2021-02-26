@@ -196,3 +196,52 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.youracclaim.com/badges/211c698a-8ee4-4e8d-90e0-b924c4856525" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"
+      alt="remote-work-and-virtual-collaboration-professional-certificate-rwvcpc"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/521f0b4a-b8e8-4ba1-b08c-01382691c6ca" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/lifelong-learning.png"
+      alt="lifelong-learning"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/f2200bd4-2ff3-426d-95fb-66886119ffc5" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-app-security-and-threat-modeler.png"
+      alt="hybrid-cloud-conference-app-security-and-threat-modeler"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/c3a77dbf-56aa-4ca4-9ebb-466af0f9bbaa" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-service-mesh-networker.png"
+      alt="hybrid-cloud-conference-service-mesh-networker"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/f8e5fd3d-ff6b-45d8-9d9b-22f9d0918609" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-serverless-innovator.png"
+      alt="hybrid-cloud-conference-serverless-innovator"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/3d389f83-1c0b-4ee5-bf49-63846c021ded" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-pipeline-builder.png"
+      alt="hybrid-cloud-conference-pipeline-builder"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/4e9ef0e3-f891-4298-8205-8ceb29092c83" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-microservices-architect.png"
+      alt="hybrid-cloud-conference-microservices-architect"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
