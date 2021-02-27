@@ -251,3 +251,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/779165/8a6a241266cb42d489a74fe10971cfdb-1614463182056.png" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/SocialMediaCertified.png"
+      alt="SocialMediaCertified"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a> 
