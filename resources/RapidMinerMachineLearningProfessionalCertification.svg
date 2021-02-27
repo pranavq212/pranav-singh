@@ -1,7 +1,8 @@
 <svg  xmlns="http://www.w3.org/2000/svg"
       xmlns:openbadges="http://openbadges.org"
       xmlns:xlink="http://www.w3.org/1999/xlink"
-      viewBox="0 0 350 336.24">
+      width="132" height="132" viewBox="0 0 81 81">
+	  <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
   <openbadges:assertion verify="https://s3.amazonaws.com/rapidminer.badges/Assertions/88070ffc-205e-45d0-81d0-42ead804cc85.json">
         <![CDATA[
         {
