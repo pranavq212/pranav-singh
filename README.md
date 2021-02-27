@@ -146,6 +146,12 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://badgr.com/public/assertions/7NzkboA3QLqWPbsRe5LKbQ?identity__email=pranav_withyou@hotmail.com">
+    <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerMachineLearningProfessionalCertification.svg"
+      alt="RapidMiner Machine Learning – Professional Certification"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/ee56435d-7c1d-45d6-ab19-cfc1a3f0de6a" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Data_Sci_Found_Level_1_-_CC_-_2019.png"
