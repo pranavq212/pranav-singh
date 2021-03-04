@@ -265,3 +265,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a> 
+  <a href="https://www.youracclaim.com/badges/463ed865-bb39-4a3a-953c-74ec3e703d60" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/zerto-certified-associate-foundations-8-0.png"
+      alt="SocialMediaCertified"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
