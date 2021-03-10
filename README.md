@@ -146,7 +146,7 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://badgr.com/public/assertions/7NzkboA3QLqWPbsRe5LKbQ?identity__email=pranav_withyou@hotmail.com">
+  <a href="https://api.badgr.io/public/assertions/rkZ1ROFmSZiXrvytujbMSA?identity__email=pranav_withyou%40hotmail.com">
     <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerMachineLearningProfessionalCertification.svg"
       alt="RapidMiner Machine Learning – Professional Certification"
       style="vertical-align: top; margin: 4px; width: 15% !important"
