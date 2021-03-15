@@ -282,3 +282,6 @@
   
 ### Github Stats
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavq212&theme=dracula&count_private=true)](https://github.com/pranavq212/github-readme-stats)
+
+### Visitors
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavq212.pranavq212)
