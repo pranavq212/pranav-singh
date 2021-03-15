@@ -272,3 +272,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.microsoft.com/en-in/campaign/azuredeveloperleague/" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureDevLeague2021.png"
+      alt="zerto-certified-associate-foundations"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
