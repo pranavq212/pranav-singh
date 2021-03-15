@@ -279,3 +279,6 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  
+### Github Stats
+[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavq212)](https://github.com/anuraghazra/github-readme-stats)
