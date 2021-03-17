@@ -279,6 +279,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.skillfront.com/Badges/59462453237822" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LeanFoundationsProfessionalCertification.png"
+      alt="zerto-certified-associate-foundations"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   
 ### Github Stats
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavq212&theme=dracula&count_private=true)](https://github.com/pranavq212/github-readme-stats)
