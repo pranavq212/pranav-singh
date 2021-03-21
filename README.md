@@ -56,7 +56,13 @@
 <a href="https://stackexchange.com/users/361416/pranav-singh"><img src="https://stackexchange.com/users/flair/361416.png" width="208" height="58" alt="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Certification Badges
- 
+ <a href="https://www.youracclaim.com/badges/9355e25a-0668-4a0a-8c3a-507502523516" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-developer-associate.png"
+      alt="zerto-certified-associate-foundations"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/2bb9eb9a-d402-4ac4-a9a5-570d453e0e7c" style="width: 50%;">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AZ900.png"
@@ -90,14 +96,7 @@
       alt="IBM_Cloud_Essentials"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>    
-   <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
-      alt="AzureNinjaCat"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a> 
+  </a>        
   <a href="https://www.youracclaim.com/badges/57b439e7-257c-4bb9-a972-ceee29066b31">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Blockchain_Foundation_Developer_V2.png"
@@ -269,6 +268,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/zerto-certified-associate-foundations-8-0.png"
       alt="zerto-certified-associate-foundations"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credential.net/fbd47604-1f7e-4721-af29-ccd51983ddb1#gs.sn8f49" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureNinjaCatAI.png"
+      alt="AzureNinjaCat"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
