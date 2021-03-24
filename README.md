@@ -281,21 +281,35 @@
   <a href="https://www.microsoft.com/en-in/campaign/azuredeveloperleague/" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureDevLeague2021.png"
-      alt="zerto-certified-associate-foundations"
+      alt="AzureDevLeague2021"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
   <a href="https://www.skillfront.com/Badges/59462453237822" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LeanFoundationsProfessionalCertification.png"
-      alt="zerto-certified-associate-foundations"
+      alt="LeanFoundationsProfessionalCertification"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
   <a href="https://www.skillfront.com/Badges/28669143538850" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/FoundationsOfBusinessAndEntrepreneurship.png"
+      alt="FoundationsOfBusinessAndEntrepreneurship"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.skillfront.com/Badges/15766321206117" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/ISO20000ITServiceManagement.png"
       alt="zerto-certified-associate-foundations"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.skillfront.com/Badges/75412574315486" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/ISO9001QMSAssociate.png"
+      alt="ISO9001QMSAssociate"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
