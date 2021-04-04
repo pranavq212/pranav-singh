@@ -70,6 +70,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credly.com/badges/bf48973d-3aba-40d2-9d40-16d8b286cd43" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-303-microsoft-azure-architect-technologies"
+      alt="Azure Fundamentals"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/ee968179-3887-4062-a1b0-0e7f7fa628ba">
     <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AWS-CloudPractitioner.png"
       alt="AWS Certified Cloud Practitioner"
@@ -82,14 +89,7 @@
       alt="AlibabaCloudFinTechTechnicalCertificate"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.youracclaim.com/badges/a64ec01f-d18d-4758-b30d-b1cc63b80406" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
-      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
   <a href="https://www.youracclaim.com/badges/e89dba5e-41b4-478e-a1f9-8fe6eb29be36" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/IBM_Cloud_Essentials.png"
@@ -215,6 +215,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.youracclaim.com/badges/a64ec01f-d18d-4758-b30d-b1cc63b80406" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
+      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/f2200bd4-2ff3-426d-95fb-66886119ffc5" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-app-security-and-threat-modeler.png"
@@ -250,13 +257,6 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/779165/8a6a241266cb42d489a74fe10971cfdb-1614463182056.png" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/SocialMediaCertified.png"
-      alt="SocialMediaCertified"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a> 
   <a href="https://www.youracclaim.com/badges/6871f38d-eac7-4132-a9bd-1a0d51a53112" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/containers-kubernetes-essentials.png"
@@ -264,6 +264,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a> 
+  <a href="https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/779165/8a6a241266cb42d489a74fe10971cfdb-1614463182056.png" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/SocialMediaCertified.png"
+      alt="SocialMediaCertified"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>   
   <a href="https://www.youracclaim.com/badges/463ed865-bb39-4a3a-953c-74ec3e703d60" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/zerto-certified-associate-foundations-8-0.png"
