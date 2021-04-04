@@ -72,7 +72,7 @@
   </a>
   <a href="https://www.credly.com/badges/bf48973d-3aba-40d2-9d40-16d8b286cd43" style="width: 50%;">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-303-microsoft-azure-architect-technologies"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-303-microsoft-azure-architect-technologies.png"
       alt="Azure Fundamentals"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
