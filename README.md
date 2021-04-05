@@ -326,7 +326,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=pranavq212&amp;theme=dracula&amp;count_private=true&show_icons=true" alt="Pranav's GitHub stats" 
     data-canonical-src="https://github-readme-stats.vercel.app/api?username=pranavq212&amp;theme=dracula&amp;count_private=true&show_icons=true" style="max-width:100%;">
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavq212&layout=compact&theme=material-palenight">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavq212&layout=compact&theme=material-palenight" />
  </a>
 
