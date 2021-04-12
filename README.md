@@ -56,6 +56,13 @@
 <a href="https://stackexchange.com/users/361416/pranav-singh"><img src="https://stackexchange.com/users/flair/361416.png" width="208" height="58" alt="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Certification Badges
+ <a href="https://www.credly.com/badges/b2ad24a5-65e4-4c37-94cd-fef1e278bd45" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-solutions-architect-expert.1.png"
+      alt="zerto-certified-associate-foundations"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+ </a>
  <a href="https://www.youracclaim.com/badges/9355e25a-0668-4a0a-8c3a-507502523516" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-developer-associate.png"
@@ -69,14 +76,7 @@
       alt="Azure Fundamentals"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.credly.com/badges/bf48973d-3aba-40d2-9d40-16d8b286cd43" style="width: 50%;">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-303-microsoft-azure-architect-technologies.png"
-      alt="Azure Fundamentals"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
   <a href="https://www.youracclaim.com/badges/ee968179-3887-4062-a1b0-0e7f7fa628ba">
     <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AWS-CloudPractitioner.png"
       alt="AWS Certified Cloud Practitioner"
@@ -289,6 +289,20 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AzureDevLeague2021.png"
       alt="AzureDevLeague2021"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/bf48973d-3aba-40d2-9d40-16d8b286cd43" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-303-microsoft-azure-architect-technologies.png"
+      alt="Azure Fundamentals"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/89ddd538-30b3-4027-bc8c-cac9261b7ec1" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-304-microsoft-azure-architect-design.png"
+      alt="Azure Fundamentals"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
