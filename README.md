@@ -194,6 +194,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credly.com/badges/25a327b0-6d5c-4645-8aaf-9c83d61c4c10" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cyber-security-foundation-professional-certificate-csfpc.png"
+      alt="scrum-foundation-professional"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/97e31227-6d50-4563-9302-28c01e7630c1" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/scrum-foundation-professional-certificate.1.png"
