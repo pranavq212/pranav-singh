@@ -173,10 +173,10 @@
     />
   </a>
   </a>    
-  <a href="https://www.youracclaim.com/badges/357866d8-8bbc-409e-a261-f72e483fe115" style="width: 50% !important">
+  <a href="https://www.credly.com/badges/525c22a9-f7f0-4bc8-b2c2-3fce782c776b" style="width: 50% !important">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
-      alt="Linux Foundation"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-data-fundamentals.png"
+      alt="microsoft-certified-azure-data-fundamentals"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>  
@@ -267,10 +267,17 @@
   <a href="https://www.youracclaim.com/badges/6871f38d-eac7-4132-a9bd-1a0d51a53112" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/containers-kubernetes-essentials.png"
-      alt="SocialMediaCertified"
+      alt="containers-kubernetes-essentials"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a> 
+  <a href="https://www.youracclaim.com/badges/357866d8-8bbc-409e-a261-f72e483fe115" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
+      alt="Linux Foundation"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/779165/8a6a241266cb42d489a74fe10971cfdb-1614463182056.png" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/SocialMediaCertified.png"
@@ -302,14 +309,35 @@
   <a href="https://www.credly.com/badges/bf48973d-3aba-40d2-9d40-16d8b286cd43" style="width: 50%;">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-303-microsoft-azure-architect-technologies.png"
-      alt="Azure Fundamentals"
+      alt="az-303-microsoft-azure-architect-technologies"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
   <a href="https://www.credly.com/badges/89ddd538-30b3-4027-bc8c-cac9261b7ec1" style="width: 50%;">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/az-304-microsoft-azure-architect-design.png"
-      alt="Azure Fundamentals"
+      alt="az-304-microsoft-azure-architect-design"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/a2c86524-952f-40c4-b6ed-cc7ef6ed85db" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cloud-native-security-conference-app-security.png"
+      alt="cloud-native-security-conference-app-security"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/aedb07ce-51d4-458b-8958-9b3209a0e795" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cloud-native-security-conference-data-security.png"
+      alt="cloud-native-security-conference-data-security"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/1ee4f776-69e8-4857-ade9-3285f543973c" style="width: 50%;">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cloud-native-security-conference-devsecops.png"
+      alt="cloud-native-security-conference-devsecops"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
