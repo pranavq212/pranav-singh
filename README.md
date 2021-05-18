@@ -132,10 +132,10 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.youracclaim.com/badges/f77f2fd7-980d-4256-9ec2-10747a9f19cd" style="width: 50% !important">
+  <a href="https://www.credly.com/badges/5089be81-aecd-4ea6-8c85-9a11e61779da" style="width: 50% !important">
     <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
-      alt="Linux Foundation"
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-ai-engineer-associate.png"
+      alt="microsoft-certified-azure-ai-engineer-associate"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -338,6 +338,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cloud-native-security-conference-devsecops.png"
       alt="cloud-native-security-conference-devsecops"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/f77f2fd7-980d-4256-9ec2-10747a9f19cd" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
+      alt="Linux Foundation"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
