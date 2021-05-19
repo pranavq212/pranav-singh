@@ -376,6 +376,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.skillfront.com/Badges/96201975537422" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/SkillFrontLifelongGrowth.png"
+      alt="SkillFrontLifelongGrowth"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   
 ### Github Stats
  <a href="https://github-readme-stats.vercel.app/api?username=pranavq212&theme=dracula&count_private=true&show_icons=true">
