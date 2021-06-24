@@ -229,6 +229,20 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/76e860033f65782a765378fb4484bcc5e79b53fa/Cert/API%20Academy%20Certified-API%20Designer.pdf" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-APIDesigner.png"
+      alt="API Designer"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/1d7a213b6077baaf20caf9bfbf5d12165804da63/Cert/API%20Academy%20Certified-API%20Security%20Architect.pdf" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-SecArch.png"
+      alt="API Security Architect"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/f2200bd4-2ff3-426d-95fb-66886119ffc5" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-app-security-and-threat-modeler.png"
@@ -305,6 +319,11 @@
       alt="AzureDevLeague2021"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
+  </a>
+  <a href='https://app.hubspot.com/academy/achievements/84jllqn6/en/1/pranav-singh/digital-marketing' title='Digital Marketing '>
+    <img src='https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/HubSpotDigitalMarketing.png' 
+         alt="digital-marketing"
+      style="vertical-align: top; margin: 4px; width: 15% !important"/>
   </a>
   <a href="https://www.credly.com/badges/bf48973d-3aba-40d2-9d40-16d8b286cd43" style="width: 50%;">
     <img
