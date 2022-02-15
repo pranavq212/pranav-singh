@@ -194,34 +194,7 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  <a href="https://www.credly.com/badges/25a327b0-6d5c-4645-8aaf-9c83d61c4c10" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cyber-security-foundation-professional-certificate-csfpc.png"
-      alt="scrum-foundation-professional"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.youracclaim.com/badges/97e31227-6d50-4563-9302-28c01e7630c1" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/scrum-foundation-professional-certificate.1.png"
-      alt="scrum-foundation-professional"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.youracclaim.com/badges/211c698a-8ee4-4e8d-90e0-b924c4856525" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"
-      alt="remote-work-and-virtual-collaboration-professional-certificate-rwvcpc"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.youracclaim.com/badges/521f0b4a-b8e8-4ba1-b08c-01382691c6ca" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/lifelong-learning.png"
-      alt="lifelong-learning"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  
   <a href="https://www.youracclaim.com/badges/a64ec01f-d18d-4758-b30d-b1cc63b80406" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
@@ -240,6 +213,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-SecArch.png"
       alt="API Security Architect"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/0ae6f03b-ae92-4078-acf2-3c6ba666755a" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/openhack-containers.png"
+      alt="openhack-containers"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -364,6 +344,34 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/LinuxFoundation.png"
       alt="Linux Foundation"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/25a327b0-6d5c-4645-8aaf-9c83d61c4c10" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/cyber-security-foundation-professional-certificate-csfpc.png"
+      alt="scrum-foundation-professional"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/97e31227-6d50-4563-9302-28c01e7630c1" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/scrum-foundation-professional-certificate.1.png"
+      alt="scrum-foundation-professional"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/211c698a-8ee4-4e8d-90e0-b924c4856525" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"
+      alt="remote-work-and-virtual-collaboration-professional-certificate-rwvcpc"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/521f0b4a-b8e8-4ba1-b08c-01382691c6ca" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/lifelong-learning.png"
+      alt="lifelong-learning"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
