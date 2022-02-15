@@ -194,14 +194,6 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  
-  <a href="https://www.youracclaim.com/badges/a64ec01f-d18d-4758-b30d-b1cc63b80406" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
-      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
   <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/76e860033f65782a765378fb4484bcc5e79b53fa/Cert/API%20Academy%20Certified-API%20Designer.pdf" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-APIDesigner.png"
@@ -220,6 +212,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/openhack-containers.png"
       alt="openhack-containers"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credential.net/4363cb4b-862a-4c42-bcf1-b2f5ca54133d#gs.p59vko" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Gremlin GCCEP.png"
+      alt="Gremlin Certified Chaos Engineering Practitioner - GCCEP"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -372,6 +371,13 @@
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/lifelong-learning.png"
       alt="lifelong-learning"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.youracclaim.com/badges/a64ec01f-d18d-4758-b30d-b1cc63b80406" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
+      alt="Cloud_Core_-_Developer_Skills_Network_-_v3"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
