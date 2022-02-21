@@ -222,6 +222,13 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credly.com/badges/e94a65a5-660f-458d-a93f-11410c4d9b06" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-accreditation-technical.png"
+      alt="aws-partner-accreditation-technical"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/f2200bd4-2ff3-426d-95fb-66886119ffc5" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-app-security-and-threat-modeler.png"
