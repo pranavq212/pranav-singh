@@ -229,6 +229,20 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credly.com/badges/7e2562fb-1642-4f06-94cc-a2ebd82f935f" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-cloud-economics-accreditation.png"
+      alt="aws-partner-cloud-economics-accreditation"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/cd2aba9b-4494-480b-90fc-21f01655424c" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-accreditation-business.png"
+      alt="aws-partner-accreditation-business"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/f2200bd4-2ff3-426d-95fb-66886119ffc5" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-app-security-and-threat-modeler.png"
