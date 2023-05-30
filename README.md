@@ -139,6 +139,20 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
+  <a href="https://www.credential.net/0dc6c13f-0303-44c9-93ab-be22f74e4db4" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/f7103f98-e8b5-4e23-b1ea-8686d0d83d8d.png"
+      alt="Databricks Lakehouse Fundamentals"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/833434bc-1901-4eee-8b1b-ff0fa0449c80" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/wicked-problem-solving-practitioner.png"
+      alt="Wicked Problem Solving Practitioner"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://edu.alibabacloud.com/certification/fintech_special_edition" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AlibabaCloudFinTechTechnicalCertificate.png"
