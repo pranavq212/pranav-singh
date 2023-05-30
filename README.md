@@ -63,6 +63,20 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
  </a>
+ <a href="https://www.credly.com/badges/5089be81-aecd-4ea6-8c85-9a11e61779da" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-ai-engineer-associate.png"
+      alt="microsoft-certified-azure-ai-engineer-associate"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/0ae6f03b-ae92-4078-acf2-3c6ba666755a" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/openhack-containers.png"
+      alt="openhack-containers"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
  <a href="https://www.youracclaim.com/badges/9355e25a-0668-4a0a-8c3a-507502523516" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-developer-associate.png"
@@ -76,10 +90,52 @@
       alt="Azure Fundamentals"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>  
+  </a>
+  <a href="https://www.credly.com/badges/525c22a9-f7f0-4bc8-b2c2-3fce782c776b" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-data-fundamentals.png"
+      alt="microsoft-certified-azure-data-fundamentals"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
   <a href="https://www.youracclaim.com/badges/ee968179-3887-4062-a1b0-0e7f7fa628ba">
     <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/AWS-CloudPractitioner.png"
       alt="AWS Certified Cloud Practitioner"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/76e860033f65782a765378fb4484bcc5e79b53fa/Cert/API%20Academy%20Certified-API%20Designer.pdf" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-APIDesigner.png"
+      alt="API Designer"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/1d7a213b6077baaf20caf9bfbf5d12165804da63/Cert/API%20Academy%20Certified-API%20Security%20Architect.pdf" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-SecArch.png"
+      alt="API Security Architect"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a> 
+  <a href="https://www.credly.com/badges/e94a65a5-660f-458d-a93f-11410c4d9b06" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-accreditation-technical.png"
+      alt="aws-partner-accreditation-technical"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/7e2562fb-1642-4f06-94cc-a2ebd82f935f" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-cloud-economics-accreditation.png"
+      alt="aws-partner-cloud-economics-accreditation"
+      style="vertical-align: top; margin: 4px; width: 15% !important"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/cd2aba9b-4494-480b-90fc-21f01655424c" style="width: 50% !important">
+    <img
+      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-accreditation-business.png"
+      alt="aws-partner-accreditation-business"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
@@ -131,14 +187,7 @@
       alt="EnterpriseDesignThinkingTeamEssentialsAI"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.credly.com/badges/5089be81-aecd-4ea6-8c85-9a11e61779da" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-ai-engineer-associate.png"
-      alt="microsoft-certified-azure-ai-engineer-associate"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
   <a href="https://badgr.com/public/assertions/T2iiG8CORye62Zc2A_emqQ?identity__email=pranav_withyou@hotmail.com">
     <img src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/RapidMinerDataEngineering–Professional.svg"
       alt="RapidMiner Data Engineering – Professional Certification"
@@ -172,14 +221,7 @@
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
   </a>
-  </a>    
-  <a href="https://www.credly.com/badges/525c22a9-f7f0-4bc8-b2c2-3fce782c776b" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/microsoft-certified-azure-data-fundamentals.png"
-      alt="microsoft-certified-azure-data-fundamentals"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>  
+  </a>
 <a href="https://www.youracclaim.com/badges/149a2e73-1828-4dfb-a177-c7030f2ee3da">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/sa+badge.png"
@@ -193,56 +235,14 @@
       alt="Certified Scrum Master"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/76e860033f65782a765378fb4484bcc5e79b53fa/Cert/API%20Academy%20Certified-API%20Designer.pdf" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-APIDesigner.png"
-      alt="API Designer"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://raw.githubusercontent.com/pranavq212/pranavq212/1d7a213b6077baaf20caf9bfbf5d12165804da63/Cert/API%20Academy%20Certified-API%20Security%20Architect.pdf" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Badge-SecArch.png"
-      alt="API Security Architect"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.credly.com/badges/0ae6f03b-ae92-4078-acf2-3c6ba666755a" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/openhack-containers.png"
-      alt="openhack-containers"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>   
   <a href="https://www.credential.net/4363cb4b-862a-4c42-bcf1-b2f5ca54133d#gs.p59vko" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/Gremlin GCCEP.png"
       alt="Gremlin Certified Chaos Engineering Practitioner - GCCEP"
       style="vertical-align: top; margin: 4px; width: 15% !important"
     />
-  </a>
-  <a href="https://www.credly.com/badges/e94a65a5-660f-458d-a93f-11410c4d9b06" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-accreditation-technical.png"
-      alt="aws-partner-accreditation-technical"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.credly.com/badges/7e2562fb-1642-4f06-94cc-a2ebd82f935f" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-cloud-economics-accreditation.png"
-      alt="aws-partner-cloud-economics-accreditation"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
-  <a href="https://www.credly.com/badges/cd2aba9b-4494-480b-90fc-21f01655424c" style="width: 50% !important">
-    <img
-      src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/aws-partner-accreditation-business.png"
-      alt="aws-partner-accreditation-business"
-      style="vertical-align: top; margin: 4px; width: 15% !important"
-    />
-  </a>
+  </a>  
   <a href="https://www.youracclaim.com/badges/f2200bd4-2ff3-426d-95fb-66886119ffc5" style="width: 50% !important">
     <img
       src="https://raw.githubusercontent.com/pranavq212/pranavq212/master/resources/hybrid-cloud-conference-app-security-and-threat-modeler.png"
